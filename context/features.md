@@ -1,253 +1,191 @@
-# [YOUR COMPANY] Features & Benefits
+﻿# Zero Vape Features & Benefits
 
-<!-- INSTRUCTIONS: This document outlines your key features, benefits, and differentiators.
-     Use this to inform content creation that drives conversions and customer acquisition.
-     Fill in all [BRACKETED] sections with your specific information.
-     Delete these instruction comments when done.
-     See examples/castos/ for a complete real-world example. -->
-
-This document outlines [YOUR COMPANY]'s key features, benefits, and differentiators to inform content creation that drives trial conversions and customer acquisition.
+هذا الملف يلخص ميزات Zero Vape التجارية والتقنية لتوجيه المحتوى نحو التحويل.
 
 ## Core Value Propositions
 
-<!-- INSTRUCTIONS: List 5-10 of your most important features/benefits.
-     For each one, include:
-     - Feature: What it is (technical description)
-     - Benefit: Why it matters (user outcome)
-     - Conversion Angle: How to pitch it (marketing copy)
--->
+### 1. **تنوع واسع في التصنيفات**
+- **Feature**: متجر يغطي السحبات الجاهزة، أجهزة الفيب، النكهات، البودات، الكويلات، وملحقات التدخين.
+- **Benefit**: العميل يلقى احتياجه في مكان واحد.
+- **Conversion Angle**: "من أول جهاز إلى إعادة التعبئة.. كل خياراتك في Zero Vape."
 
-### 1. **[FEATURE NAME]**
-- **Feature**: [Technical description of what this feature does]
-- **Benefit**: [The outcome or value this provides to users]
-- **Conversion Angle**: "[One-sentence pitch that makes someone want to sign up]"
+### 2. **تخصص قوي في النكهات والنيكوتين**
+- **Feature**: تصنيفات حسب نوع النكهة ومستويات النيكوتين (0/3/6/9/12/18).
+- **Benefit**: اختيار أدق وتجربة أقرب لتفضيل العميل.
+- **Conversion Angle**: "اختَر النكهة والتركيز المناسب لك بدون تخمين."
 
-### 2. **[FEATURE NAME]**
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### 3. **تغطية ماركات مطلوبة في السوق**
+- **Feature**: صفحات مخصصة للماركات والمنتجات الأعلى طلبًا.
+- **Benefit**: تقليل وقت البحث وزيادة الثقة بالاختيار.
+- **Conversion Angle**: "ماركاتك المفضلة في مكان واحد وبشكل منظم."
 
-### 3. **[FEATURE NAME]**
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### 4. **عروض وبكجات توفير**
+- **Feature**: تصنيفات عروض خاصة وبكجات وعروض تصفية.
+- **Benefit**: قيمة أفضل خصوصًا للشراء المتكرر.
+- **Conversion Angle**: "وفّر أكثر مع البكجات والعروض الجاهزة."
 
-### 4. **[FEATURE NAME]**
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### 5. **صفحات مساعدة تعليمية**
+- **Feature**: FAQ ومقالات/صفحات إرشادية عن الفروقات والاستخدام.
+- **Benefit**: رفع ثقة العميل وتقليل أخطاء الشراء.
+- **Conversion Angle**: "قبل ما تشتري، خذ القرار الصح خلال دقيقتين."
 
-### 5. **[FEATURE NAME]**
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### 6. **خيارات دفع مناسبة للسعودية**
+- **Feature**: وسائل دفع متنوعة تشمل الدفع عند الاستلام والتقسيط (Tamara).
+- **Benefit**: مرونة أعلى في إتمام الطلب.
+- **Conversion Angle**: "اختر طريقة الدفع الأنسب لك وأكمل طلبك بسهولة."
 
-### 6. **[FEATURE NAME]** (Optional)
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
-
-### 7. **[FEATURE NAME]** (Optional)
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
-
-### 8. **[FEATURE NAME]** (Optional)
-- **Feature**: [Technical description]
-- **Benefit**: [User outcome]
-- **Conversion Angle**: "[Marketing pitch]"
+### 7. **تركيز على المنتجات الأكثر مبيعًا**
+- **Feature**: صفحة مخصصة للمنتجات الأعلى طلبًا.
+- **Benefit**: تسريع قرار الشراء وتقليل الحيرة.
+- **Conversion Angle**: "ابدأ من الخيارات المجربة من أغلب العملاء."
 
 ## Technical Features
 
-<!-- INSTRUCTIONS: Group your technical features into logical categories.
-     Use bullet points for quick reference. -->
+### الأجهزة والسحبات
+- **سحبات جاهزة لمرة واحدة**: خيارات سريعة للمستخدم اليومي.
+- **أجهزة شيشة إلكترونية**: حلول قابلة للتخصيص.
+- **Vape Pen**: أجهزة عملية وبسيطة.
 
-### [CATEGORY NAME - e.g., "Hosting & Distribution"]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
+### النكهات والنيكوتين
+- **نكهات سولت**: تجربة مناسبة لأجهزة البود.
+- **نكهات فيب شيشة**: تنوع واسع للأذواق.
+- **تصنيفات حسب تركيز النيكوتين**: 0/3/6/9/12/18.
 
-### [CATEGORY NAME - e.g., "Content Management"]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
+### قطع الغيار والملحقات
+- **بودات**: بدائل وتوافقات متعددة.
+- **كويلات**: خيارات مختلفة للمقاومة.
+- **ملحقات التدخين**: لوازم مكملة للتجربة.
 
-### [CATEGORY NAME - e.g., "Analytics & Insights"]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-
-### [CATEGORY NAME - e.g., "Integrations"]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
-- **[Feature name]**: [Brief description]
+### فئات خاصة
+- **Nicotine Pouches**
+- **IQOS/HEETS/TEREA**
+- **العروض والبكجات**
 
 ## Integrations & Ecosystem
 
-<!-- INSTRUCTIONS: List tools, platforms, and services you integrate with. -->
-
 ### Direct Integrations
-- **[Tool/Platform name]**: [What the integration does]
-- **[Tool/Platform name]**: [What the integration does]
-- **[Tool/Platform name]**: [What the integration does]
-- **[Tool/Platform name]**: [What the integration does]
-- **[Tool/Platform name]**: [What the integration does]
-
-### Distribution Partners (if applicable)
-- [Partner 1]
-- [Partner 2]
-- [Partner 3]
-- [Partner 4]
-- [Partner 5]
+- **Tamara**: تقسيط المشتريات.
+- **الدفع عند الاستلام**: مرونة لشرائح واسعة.
+- **برنامج الولاء والمكافآت**: رفع التكرار والاحتفاظ.
 
 ## Competitive Differentiators
 
-<!-- INSTRUCTIONS: Define how you're different from competitors.
-     Group by competitor type or category. -->
+### vs. متاجر عامة غير متخصصة
+- **تصنيف أدق حسب نوع المنتج والنيكوتين**
+- **محتوى تثقيفي فعلي يساعد على الاختيار**
+- **صفحات موجهة لنية الشراء (أفضل/أكثر مبيعًا/عروض)**
+- **تغطية عميقة لفئات متعددة داخل نفس النيتش**
 
-### vs. [COMPETITOR 1 or COMPETITOR TYPE]
-- **[Your advantage 1]** ([Explain what competitors lack])
-- **[Your advantage 2]** ([Explain what competitors lack])
-- **[Your advantage 3]** ([Explain what competitors lack])
-- **[Your advantage 4]** ([Explain what competitors lack])
+### vs. متاجر تعتمد فقط على السعر
+- **تركيز على القرار الصحيح وليس السعر فقط**
+- **قيمة عبر البكجات بدل التخفيض المؤقت فقط**
+- **تجربة محتوى أفضل لرفع ثقة العميل**
+- **روابط داخلية تعلّم العميل وتقوده للشراء**
 
-### vs. [COMPETITOR 2 or COMPETITOR TYPE]
-- **[Your advantage 1]** ([Explain what competitors lack])
-- **[Your advantage 2]** ([Explain what competitors lack])
-- **[Your advantage 3]** ([Explain what competitors lack])
-- **[Your advantage 4]** ([Explain what competitors lack])
-
-### vs. [COMPETITOR 3 or COMPETITOR TYPE]
-- **[Your advantage 1]** ([Explain what competitors lack])
-- **[Your advantage 2]** ([Explain what competitors lack])
-- **[Your advantage 3]** ([Explain what competitors lack])
-- **[Your advantage 4]** ([Explain what competitors lack])
+### vs. منافسين نيتش واحد
+- **تنوع أعلى (سحبات + بودات + كويلات + نكهات + IQOS)**
+- **تغطية مراحل العميل من المبتدئ إلى المستخدم المتقدم**
+- **تصنيفات كثيرة قابلة للتوسعة SEO**
+- **مرونة عروض أعلى حسب الفئة**
 
 ## Use Cases by Customer Segment
 
-<!-- INSTRUCTIONS: Describe your key customer segments and what they need. -->
+### المبتدئ
+- فهم الفرق بين السحبة والبود
+- اختيار نيكوتين مناسب
+- بداية سريعة بدون تعقيد
+- الاعتماد على الأكثر مبيعًا
 
-### [SEGMENT 1 NAME]
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
+### المستخدم المتوسط
+- تجربة نكهات جديدة
+- تبديل كويلات وبودات
+- اختيار أجهزة أفضل أداء
+- البحث عن قيمة أفضل عبر العروض
 
-### [SEGMENT 2 NAME]
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
+### الباحث عن توفير
+- مقارنة السعر مقابل عدد السحبات
+- استخدام البكجات
+- متابعة عروض التصفية
+- اختيار فئات سعرية محددة
 
-### [SEGMENT 3 NAME]
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
-
-### [SEGMENT 4 NAME] (Optional)
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
-
-### [SEGMENT 5 NAME] (Optional)
-- [Need 1]
-- [Need 2]
-- [Need 3]
-- [Need 4]
+### الباحث عن بدائل التبغ التقليدي
+- الانتقال التدريجي
+- خيارات نيكوتين مختلفة
+- فئات IQOS/HEETS/Nicotine Pouches
+- محتوى إرشادي يدعم القرار
 
 ## Pricing & Plan Benefits
 
-<!-- INSTRUCTIONS: Outline what's included in each pricing tier.
-     This helps AI understand value propositions for different customer segments. -->
+### فئة اقتصادية
+- خيارات أجهزة ونكهات دخول
+- منتجات أقل من 60 ريال
+- عروض دورية
 
-### [PLAN NAME 1] Benefits
-- [Benefit 1]
-- [Benefit 2]
-- [Benefit 3]
-- [Benefit 4]
-- [Benefit 5]
+### فئة متوسطة
+- توازن بين الأداء والسعر
+- تنوع نكهات أوسع
+- توافقات أكثر في البودات والكويلات
 
-### [PLAN NAME 2] Benefits
-- Everything in [Plan 1], plus:
-- [Additional benefit 1]
-- [Additional benefit 2]
-- [Additional benefit 3]
-- [Additional benefit 4]
-
-### [PLAN NAME 3] Benefits (Optional)
-- Everything in [Plan 2], plus:
-- [Additional benefit 1]
-- [Additional benefit 2]
-- [Additional benefit 3]
-- [Additional benefit 4]
+### فئة متقدمة
+- أجهزة وفئات أعلى سعة/أداء
+- خيارات ماركات محددة
+- مزيج أفضل للتجربة طويلة المدى
 
 ## Key Messaging for Conversions
 
-<!-- INSTRUCTIONS: Pre-write effective marketing messages for common conversion points. -->
-
 ### Trial Conversion Messages
-- "[CTA message 1]"
-- "[CTA message 2]"
-- "[CTA message 3]"
-- "[CTA message 4]"
+- "احتار؟ ابدأ من الأكثر مبيعًا."
+- "اختَر احتياجك أولًا، والباقي سهل."
+- "شوف أفضل الخيارات حسب ميزانيتك."
+- "أضف للسلة الآن وخلك مطمّن بسياسات واضحة."
+
+## Top-Selling Products to Prioritize in Content
+
+استخدم المنتجات التالية كأمثلة عملية وترشيحات أساسية في المحتوى البيعي:
+
+1. Ripe Vapes VCT Vanilla Custard Tobacco (نسخة الأكثر مبيعًا)
+2. VGOD Lush Ice
+3. Zero Pods
+4. VGOD Dry Tobacco Salt
+5. VGOD Cubano Salt
+6. Pods for Mazaj Box 3000
+7. Smok RPM Coil (RPM40)
+8. Bomb Apple VGOD Iced
+9. Ripe Vapes VCT (فئة الفيب)
+10. Bomb Mango VGOD Iced
+11. جهاز Smok RPM40
+12. Uwell Caliburn Pods
+13. OXVA XLIM Pro Replacement Pods
+14. Uwell Koko Pod
+15. Veiik Airo Pods
+16. Nasty ASAP Grape Salt
 
 ### Pain Point Solutions
-<!-- Format: **"[Common objection or concern]"** → "[Your solution]" -->
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
-- **"[Customer pain point/concern]"** → "[How your product solves it]"
+- **"محتار بين سحبة وبود"** -> "راجع دليل الفرق السريع واختر حسب استخدامك."
+- **"مو متأكد من النيكوتين المناسب"** -> "ابدأ بتركيز يناسب عادتك الحالية وارتقِ تدريجيًا."
+- **"أخاف أشتري شيء مو مناسب"** -> "اعتمد الأكثر مبيعًا والتوافقات الموصى بها."
+- **"أدور توفير"** -> "تصفح البكجات والعروض الخاصة أولًا."
+- **"أبغى منتج موثوق"** -> "اختر من الماركات المعروفة مع صفحات شرح واضحة."
 
 ### Social Proof Elements
-<!-- INSTRUCTIONS: Add specific numbers and achievements -->
-- "[Number] of [customers/users] [geographic scope]"
-- "[Impressive metric about usage or scale]"
-- "[Customer rating/review score]"
-- "[Press mentions or awards]"
+- "أكثر المبيعات في تصنيف مستقل"
+- "تنوع كبير في الفئات والخيارات"
+- "محتوى تعليمي يدعم قرار الشراء"
+- "برامج ولاء وخيارات دفع مرنة"
 
 ## Common Questions & Objections
 
-<!-- INSTRUCTIONS: List frequent customer questions and your best answers.
-     This helps AI address objections in content. -->
+### "وش الفرق بين السحبة الجاهزة والبود؟"
+**Answer**: السحبة الجاهزة أسهل وأسرع، أما البود يعطيك مرونة أعلى وتكلفة أقل على المدى الطويل.
 
-### "[Common question 1]?"
-**Answer**: [Your clear, benefit-focused answer]
+### "كيف أختار نسبة النيكوتين؟"
+**Answer**: يعتمد على استهلاكك الحالي؛ ابدأ بالمناسب لك وغيّر تدريجيًا حسب التجربة.
 
-### "[Common question 2]?"
-**Answer**: [Your clear, benefit-focused answer]
+### "هل عندكم خيارات اقتصادية؟"
+**Answer**: نعم، عندنا تصنيفات سعرية وعروض وبكجات توفير مناسبة.
 
-### "[Common question 3]?"
-**Answer**: [Your clear, benefit-focused answer]
+### "هل فيه منتجات الأكثر مبيعًا؟"
+**Answer**: نعم، صفحة "الأكثر مبيعًا" تجمع المنتجات الأعلى طلبًا لتسهيل الاختيار.
 
-### "[Common question 4]?"
-**Answer**: [Your clear, benefit-focused answer]
-
-### "[Common question 5]?"
-**Answer**: [Your clear, benefit-focused answer]
-
-## Content Creation Guidelines
-
-When writing about [YOUR COMPANY] features:
-
-1. **Lead with benefits, not features**: Don't just say "[feature name]"—explain "[the outcome it delivers]"
-2. **Use specific examples**: Show how features solve real problems
-3. **Include proof points**: Stats, testimonials, certifications
-4. **Address objections proactively**: Answer concerns before they ask
-5. **Create clear CTAs**: Make next steps obvious (start trial, see pricing, contact sales)
-6. **Emphasize uniqueness**: Highlight what makes [YOUR COMPANY] different from competitors
-7. **Match audience to use case**: Tailor messaging to segment ([segment 1] vs. [segment 2] vs. [segment 3])
-
----
-
-*Note: Update this document as new features launch or positioning changes. Keep messaging aligned with current marketing campaigns and homepage copy.*
+### "هل أقدر أدفع بطريقة مرنة؟"
+**Answer**: نعم، تتوفر خيارات دفع مناسبة مثل الدفع عند الاستلام والتقسيط.

@@ -1,224 +1,221 @@
-# Internal Links Map
+﻿# Internal Links Map - Zero Vape
 
-<!-- INSTRUCTIONS: This document catalogs key pages on your website that should be referenced
-     in blog content for strategic internal linking.
-
-     Fill in all sections with your actual URLs and linking guidelines.
-     This helps Claude create relevant internal links while writing content.
-
-     Delete these instruction comments when done.
-     See examples/castos/internal-links-map.md for a complete real-world example. -->
-
-This document catalogs key [YOUR COMPANY] pages that should be referenced in blog content for strategic internal linking. Use this as your go-to reference when adding internal links to articles.
-
-## Instructions
-
-Fill in URLs and descriptions for all important pages on your website. Update as new content is created or pages are updated.
-
-For each page, include:
-- **URL**: The full URL to the page
-- **When to Link**: Context or topics where this link is relevant
-- **Anchor Text Examples**: Natural phrases to use when linking
-
----
+مرجع الروابط الداخلية المعتمدة للمحتوى العربي الموجه للسوق السعودي.
 
 ## Homepage & Core Pages
 
 ### Homepage
-- **URL**: https://[yoursite.com]
-- **When to Link**: [e.g., "Rarely; only when referencing your company broadly"]
-- **Anchor Text Examples**: "[your company name]", "our platform", "[your product]"
+- **URL**: https://zerovape.store/ar
+- **When to Link**: عند تعريف المتجر أو مقارنة الخيارات.
+- **Anchor Text Examples**: "متجر زيرو فيب", "Zero Vape", "متجر الفيب في السعودية"
 
-### About Page
-- **URL**: https://[yoursite.com/about]
-- **When to Link**: [e.g., "When discussing company mission, values, or team"]
-- **Anchor Text Examples**: "about [company]", "our mission", "our story"
+### Brands Page
+- **URL**: https://zerovape.store/ar/brands
+- **When to Link**: في مقالات المقارنات والاختيار بين الماركات.
+- **Anchor Text Examples**: "الماركات", "ماركات الفيب", "كل البراندات"
 
-### Contact Page
-- **URL**: https://[yoursite.com/contact]
-- **When to Link**: [e.g., "When inviting readers to reach out"]
-- **Anchor Text Examples**: "contact us", "get in touch", "reach out"
+### Most Sales
+- **URL**: https://zerovape.store/ar/most-Sales-products
+- **When to Link**: عند توصية سريعة أو محتوى "ابدأ من هنا".
+- **Anchor Text Examples**: "الأكثر مبيعًا", "أعلى المنتجات طلبًا", "المنتجات المجربة"
 
-### Pricing Page
-- **URL**: https://[yoursite.com/pricing]
-- **When to Link**: [e.g., "When discussing costs, plans, or pricing"]
-- **Anchor Text Examples**: "[product] pricing", "pricing plans", "see pricing"
+### Contact
+- **URL**: https://zerovape.store/ar/p/تواصل-معنا
+- **When to Link**: عند الدعوة للاستفسار أو الدعم.
+- **Anchor Text Examples**: "تواصل معنا", "الدعم", "استفسر الآن"
 
----
+### Shipping
+- **URL**: https://zerovape.store/ar/p/الشحن-والتوصيل
+- **When to Link**: قرب CTA النهائي.
+- **Anchor Text Examples**: "سياسة الشحن", "الشحن والتوصيل"
 
-## Product/Service Pages
+### Returns & Exchanges
+- **URL**: https://zerovape.store/ar/p/سياسة-الاستبدال-والاسترجاع
+- **When to Link**: أثناء معالجة الاعتراضات.
+- **Anchor Text Examples**: "سياسة الاستبدال والاسترجاع", "الاسترجاع"
 
-<!-- INSTRUCTIONS: Add your main product or service pages -->
+### Privacy & Terms
+- **URL**: https://zerovape.store/ar/p/سياسة-الاستخدام-والخصوصية
+- **When to Link**: في الصفحات الرسمية والثقة.
+- **Anchor Text Examples**: "الخصوصية", "سياسة الاستخدام"
 
-### [Product/Service Name 1]
-- **URL**: https://[yoursite.com/product-1]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
+### FAQ
+- **URL**: https://zerovape.store/ar/p/FAQ
+- **When to Link**: عند الأسئلة المتكررة.
+- **Anchor Text Examples**: "الأسئلة الشائعة", "FAQ"
 
-### [Product/Service Name 2]
-- **URL**: https://[yoursite.com/product-2]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
+### How to Order
+- **URL**: https://zerovape.store/ar/p/كيفية-الطلب-من-الموقع
+- **When to Link**: صفحات المبتدئين.
+- **Anchor Text Examples**: "طريقة الطلب", "كيف تطلب"
 
-### [Product/Service Name 3]
-- **URL**: https://[yoursite.com/product-3]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
+## Priority Categories
 
----
+### سحبات جاهزة لمرة واحدة
+- **URL**: https://zerovape.store/ar/سحبات-جاهزة-لمرة-واحدة/c906350745
+- **When to Link**: نية شراء سريعة وسهولة الاستخدام.
+- **Anchor Text Examples**: "سحبات جاهزة", "دسبوزبل", "سحبة لمرة واحدة"
 
-## Feature Pages
+### سحبة سيجارة Vape Pen
+- **URL**: https://zerovape.store/ar/سحبة-سيجارة-vape-pen/c898385240
+- **When to Link**: مقالات مقارنة الأجهزة.
+- **Anchor Text Examples**: "Vape Pen", "سحبة سيجارة", "أجهزة سحبة"
 
-<!-- INSTRUCTIONS: Add pages for specific features or capabilities -->
+### نكهات سحبة سولت
+- **URL**: https://zerovape.store/ar/نكهات-سحبة-سولت-e-juice/c1600093552
+- **When to Link**: محتوى النكهات والسولت.
+- **Anchor Text Examples**: "نكهات سولت", "سولت نيكوتين"
 
-### [Feature Name 1]
-- **URL**: https://[yoursite.com/feature-1]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
+### أجهزة شيشة إلكترونية
+- **URL**: https://zerovape.store/ar/أجهزة-شيشة-الكترونية/c953546811
+- **When to Link**: محتوى الأجهزة المتقدمة.
+- **Anchor Text Examples**: "شيشة إلكترونية", "أجهزة فيب"
 
-### [Feature Name 2]
-- **URL**: https://[yoursite.com/feature-2]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
+### نكهات فيب شيشة
+- **URL**: https://zerovape.store/ar/نكهات-فيب-شيشة/c1737225055
+- **When to Link**: مقالات ترشيح النكهات.
+- **Anchor Text Examples**: "نكهات فيب", "نكهات شيشة فيب"
 
-### [Feature Name 3]
-- **URL**: https://[yoursite.com/feature-3]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
+### بودات
+- **URL**: https://zerovape.store/ar/بودات-pods/c124347481
+- **When to Link**: توافق الأجهزة والملحقات.
+- **Anchor Text Examples**: "بودات", "Pods", "خراطيش بود"
 
----
+### كويلات
+- **URL**: https://zerovape.store/ar/كويلات/c345944456
+- **When to Link**: صيانة وتغيير القطع.
+- **Anchor Text Examples**: "كويلات", "coils", "مقاومات"
 
-## Use Case / Solution Pages
+### اظرف النيكوتين
+- **URL**: https://zerovape.store/ar/اظرف-النيكوتين-nicotine-pouches/c209428100
+- **When to Link**: بدائل التبغ والنيكوتين.
+- **Anchor Text Examples**: "Nicotine Pouches", "اظرف نيكوتين"
 
-<!-- INSTRUCTIONS: Add pages for specific use cases, industries, or customer segments -->
+### معسلات
+- **URL**: https://zerovape.store/ar/معسلات/c53626681
+- **When to Link**: محتوى المعسل والنكهات التراثية.
+- **Anchor Text Examples**: "معسلات", "نكهات معسل"
 
-### [Use Case 1]
-- **URL**: https://[yoursite.com/use-case-1]
-- **When to Link**: In articles targeting [audience segment] or discussing [problem/solution]
-- **Anchor Text Examples**: "[use case description]", "[for whom]", "[solution phrase]"
+### عروض خاصة
+- **URL**: https://zerovape.store/ar/عروض-خاصة/c874581667
+- **When to Link**: نهاية المقالات البيعية.
+- **Anchor Text Examples**: "عروض خاصة", "أفضل العروض"
 
-### [Use Case 2]
-- **URL**: https://[yoursite.com/use-case-2]
-- **When to Link**: In articles targeting [audience segment] or discussing [problem/solution]
-- **Anchor Text Examples**: "[use case description]", "[for whom]", "[solution phrase]"
+## Additional Revenue Categories
 
----
+- https://zerovape.store/ar/بكجات-فيب-توفير/c792837416
+- https://zerovape.store/ar/نكهات-فيب-اقل-من-60-ريال/c16737368
+- https://zerovape.store/ar/افضل-شيشة-الكترونية/c1705332135
+- https://zerovape.store/ar/افضل-سحبه-الكترونيه/c310439654
+- https://zerovape.store/ar/ايكوس-جهاز-ايكوس-ايكوس-السعودية-iqos-saudi/c1729289949
+- https://zerovape.store/ar/هيتس-هيتس-دخان-ايكوس-السعودية-Heets/c702815704
 
-## Resource Pages
+## Approved Top-Selling Product Links (Use First)
 
-<!-- INSTRUCTIONS: Add links to guides, tools, templates, or other resources -->
+مهم: في المقالات ذات نية الشراء، اعتمد روابط المنتجات التالية أولًا قبل أي رابط منتج آخر.
 
-### [Resource Name 1]
-- **URL**: https://[yoursite.com/resources/resource-1]
-- **When to Link**: [When this resource would help the reader]
-- **Anchor Text Examples**: "[resource name]", "[what it provides]", "free [resource type]"
+### نكهة توباكو فانيلا في سي تي (الأكثر مبيعًا)
+- **URL**: https://zerovape.store/ar/%D9%86%D9%83%D9%87%D8%A9-%D8%AA%D9%88%D8%A8%D8%A7%D9%83%D9%88-%D9%81%D8%A7%D9%86%D9%8A%D9%84%D8%A7-%D9%81%D9%8A-%D8%B3%D9%8A-%D8%AA%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D9%83%D8%AB%D8%B1-%D9%85%D8%A8%D9%8A%D8%B9%D8%A7-ripe-vapes-vct-vanilla-custard-tobacco/p1712117579
+- **When to Link**: محتوى نكهات التوباكو، أفضل مبيعات النكهات.
+- **Anchor Text Examples**: "توباكو فانيلا VCT", "نكهة VCT الأكثر مبيعًا"
 
-### [Resource Name 2]
-- **URL**: https://[yoursite.com/resources/resource-2]
-- **When to Link**: [When this resource would help the reader]
-- **Anchor Text Examples**: "[resource name]", "[what it provides]", "free [resource type]"
+### لوش ايس فيقود
+- **URL**: https://zerovape.store/ar/%D9%84%D9%88%D8%B4-%D8%A7%D9%8A%D8%B3-%D9%81%D9%8A%D9%82%D9%88%D8%AF-%D9%84%D9%88%D8%B4-%D8%A7%D9%8A%D8%B3-vgod-lush-ice/p374643662
+- **When to Link**: محتوى نكهات باردة/فواكه.
+- **Anchor Text Examples**: "لوش ايس فيقود", "VGOD Lush Ice"
 
----
+### بودات زيرو Zero Pods
+- **URL**: https://zerovape.store/ar/%D8%A8%D9%88%D8%AF%D8%A7%D8%AA-%D8%B2%D9%8A%D8%B1%D9%88-zero-pods/p1085450818
+- **When to Link**: محتوى بودات زيرو والتوافقات.
+- **Anchor Text Examples**: "بودات زيرو", "Zero pods"
 
-## Top-Performing Blog Posts
+### نكهة سولت فيقود دراي توباكو
+- **URL**: https://zerovape.store/ar/%D9%86%D9%83%D9%87%D8%A9-%D8%B3%D9%88%D9%84%D8%AA-%D9%81%D9%8A%D9%82%D9%88%D8%AF-%D8%AF%D8%B1%D8%A7%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A7%D9%83%D9%88-%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%A5%D8%B6%D8%A7%D9%81%D8%A7%D8%AA-%D9%85%D9%85%D8%AA%D8%A7%D8%B2%D8%A9-%D9%84%D9%84%D9%85%D8%AF%D8%AE%D9%86%D9%8A%D9%86-dry-tobacco-vgod/p277770417
+- **When to Link**: محتوى نكهات سولت التوباكو.
+- **Anchor Text Examples**: "دراي توباكو فيقود", "VGOD Dry Tobacco Salt"
 
-<!-- INSTRUCTIONS: Add your 10-20 best blog posts that get good traffic and conversions.
-     These are "pillar content" you want to link to frequently. -->
+### كوبانو VGOD Cubano Salt
+- **URL**: https://zerovape.store/ar/%D9%83%D9%88%D8%A8%D8%A7%D9%86%D9%88-vgod-cubano-salt/p376840839
+- **When to Link**: مقالات نكهات السيجار/التوباكو.
+- **Anchor Text Examples**: "كوبانو سولت", "VGOD Cubano"
 
-### [Blog Post Title 1]
-- **URL**: https://[yoursite.com/blog/post-1]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
+### بودات مزاج بوكس 3000
+- **URL**: https://zerovape.store/ar/%D8%A8%D9%88%D8%AF%D8%A7%D8%AA-%D9%85%D8%B2%D8%A7%D8%AC-%D8%A8%D9%88%D9%83%D8%B3-3000-%D8%B3%D8%AD%D8%A8%D8%A9-pods-for-mazaj-box/p1475245699
+- **When to Link**: محتوى بودات مزاج وإعادة التعبئة.
+- **Anchor Text Examples**: "بودات مزاج بوكس 3000", "Pods for Mazaj Box"
 
-### [Blog Post Title 2]
-- **URL**: https://[yoursite.com/blog/post-2]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
+### كويلات Smok RPM40
+- **URL**: https://zerovape.store/ar/%D9%83%D9%88%D9%8A%D9%84%D8%A7%D8%AA-%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D8%B1-%D8%A8%D9%8A-%D8%A7%D9%85-40-rpm40-%D8%B3%D9%85%D9%88%D9%83-smok-rpm-coil/p1734905046
+- **When to Link**: محتوى الصيانة وتبديل الكويلات.
+- **Anchor Text Examples**: "كويلات RPM40", "Smok RPM coil"
 
-### [Blog Post Title 3]
-- **URL**: https://[yoursite.com/blog/post-3]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
+### نكهة Bomb Apple VGOD Iced
+- **URL**: https://zerovape.store/ar/%D9%86%D9%83%D9%87%D8%A9-%D9%81%D9%8A%D9%82%D9%88%D8%AF-%D8%B3%D9%88%D9%84%D8%AA-%D8%AA%D9%81%D8%A7%D8%AD-%D8%AD%D8%A7%D9%85%D8%B6-%D8%A8%D8%A7%D8%B1%D8%AF-bomb-apple-vgod-iced/p1612513559
+- **When to Link**: مقالات نكهات التفاح البارد.
+- **Anchor Text Examples**: "Bomb Apple VGOD", "تفاح بارد فيقود"
 
-### [Blog Post Title 4]
-- **URL**: https://[yoursite.com/blog/post-4]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
+### نكهة فيب VCT Vanilla Custard Tobacco
+- **URL**: https://zerovape.store/ar/%D9%86%D9%83%D9%87%D8%A9-%D9%81%D9%8A%D8%A8-%D8%AA%D9%88%D8%A8%D8%A7%D9%83%D9%88-%D9%81%D8%A7%D9%86%D9%8A%D9%84%D8%A7-%D9%81%D9%8A-%D8%B3%D9%8A-%D8%AA%D9%8A-ripe-vapes-vct-vanilla-custard-tobacco/p426324566
+- **When to Link**: محتوى نكهات الفيب فريبس/توباكو.
+- **Anchor Text Examples**: "نكهة VCT فيب", "Ripe Vapes VCT"
 
-### [Blog Post Title 5]
-- **URL**: https://[yoursite.com/blog/post-5]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
+### نكهة سولت VGOD Bomb Mango Iced
+- **URL**: https://zerovape.store/ar/%D9%86%D9%83%D9%87%D8%A9-%D8%B3%D9%88%D9%84%D8%AA-%D9%81%D9%8A%D9%82%D9%88%D8%AF-%D9%85%D8%A7%D9%86%D8%AC%D9%88-%D8%A7%D9%8A%D8%B3-bomb-mango-vgod-iced/p848045250
+- **When to Link**: محتوى نكهات المانجو الباردة.
+- **Anchor Text Examples**: "Bomb Mango Iced", "مانجو ايس فيقود"
 
-<!-- Add 5-15 more of your top blog posts following the same format -->
+### جهاز Smok RPM40
+- **URL**: https://zerovape.store/ar/%D8%AC%D9%87%D8%A7%D8%B2-%D8%B3%D8%AD%D8%A8%D8%A9-%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D8%B1-%D8%A8%D9%8A-%D8%A7%D9%85-40-%D8%B3%D9%85%D9%88%D9%83-%D8%A7%D8%AF%D8%A7%D8%A1-%D9%82%D9%88%D9%8A-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%86%D9%8A%D9%82/p905383329
+- **When to Link**: مقالات الأجهزة للمستخدم المتوسط.
+- **Anchor Text Examples**: "جهاز RPM40", "Smok RPM40"
 
----
+### بودات Uwell Caliburn
+- **URL**: https://zerovape.store/ar/%D8%A8%D9%88%D8%AF%D8%A7%D8%AA-%D9%8A%D9%88-%D9%88%D9%8A%D9%84-%D9%83%D8%A7%D9%84%D9%8A%D8%A8%D9%88%D8%B1%D9%86-4-%D8%AD%D8%A8%D8%A7%D8%AA-pod-caliburn-uwell/p1328274901
+- **When to Link**: محتوى بودات Caliburn.
+- **Anchor Text Examples**: "بودات كاليبورن", "Caliburn pods"
 
-## Comparison Pages
+### بودات OXVA XLIM Pro
+- **URL**: https://zerovape.store/ar/%D8%A8%D9%88%D8%AF%D8%A7%D8%AA-%D8%A7%D9%83%D8%B3%D9%84%D9%85-%D8%A8%D8%B1%D9%88-%D9%85%D9%86-%D8%A7%D9%88%D9%83%D8%B3%D9%81%D8%A7-oxva-xlim-pro-replacement-pods/p355879613
+- **When to Link**: مقالات توافقات OXVA.
+- **Anchor Text Examples**: "بودات OXVA XLIM Pro", "Xlim Pro pods"
 
-<!-- INSTRUCTIONS: If you have comparison or "vs" pages, add them here -->
+### بودات Uwell Koko
+- **URL**: https://zerovape.store/ar/%D8%A8%D9%88%D8%AF%D8%A7%D8%AA-%D9%8A%D9%88-%D9%88%D8%A8%D9%84-%D9%83%D9%88%D9%83%D9%88-uwell-koko-pod/p1430822262
+- **When to Link**: محتوى أجهزة وبودات Koko.
+- **Anchor Text Examples**: "بودات كوكو", "Uwell Koko pod"
 
-### [Your Product] vs [Competitor 1]
-- **URL**: https://[yoursite.com/vs/competitor-1]
-- **When to Link**: When mentioning [competitor] or discussing alternatives
-- **Anchor Text Examples**: "[your product] vs [competitor]", "comparison with [competitor]"
+### بودات Airo
+- **URL**: https://zerovape.store/ar/%D8%A8%D9%88%D8%AF%D8%A7%D8%AA-%D8%A7%D9%8A%D8%B1%D9%88-%D8%A8%D9%88%D8%AF%D8%A7%D8%AA-veiik-airo-pods-airo/p638701632
+- **When to Link**: محتوى بودات Airo.
+- **Anchor Text Examples**: "بودات Airo", "Veiik Airo pods"
 
-### [Your Product] vs [Competitor 2]
-- **URL**: https://[yoursite.com/vs/competitor-2]
-- **When to Link**: When mentioning [competitor] or discussing alternatives
-- **Anchor Text Examples**: "[your product] vs [competitor]", "comparison with [competitor]"
+### نكهة Nasty ASAP Grape Salt
+- **URL**: https://zerovape.store/ar/%D9%86%D9%83%D9%87%D8%A9-%D8%B3%D9%88%D9%84%D8%AA-%D9%86%D8%A7%D8%B3%D8%AA%D9%8A-%D8%B9%D9%86%D8%A8-nasty-asap-grape/p1264676834
+- **When to Link**: محتوى نكهات العنب.
+- **Anchor Text Examples**: "Nasty ASAP Grape", "نكهة ناستي عنب"
 
----
+## Blog Links (Style + Internal Support)
 
-## Landing Pages
+### Blog Home
+- **URL**: https://zerovape.store/ar/blog
+- **When to Link**: "اقرأ المزيد" وموضوعات تعليمية.
+- **Anchor Text Examples**: "مدونة زيرو فيب", "مقالات الفيب"
 
-<!-- INSTRUCTIONS: Add any campaign-specific or conversion-optimized landing pages -->
+### نكهات بينك بانثر فيب
+- **URL**: https://zerovape.store/ar/blog/نكهات-بينك-بانثر-فيب-الدليل-الشامل-للمبتدئين-والخبراء-و-تجربتي-الشخصية/a-1889139335
 
-### [Campaign/Offer Name]
-- **URL**: https://[yoursite.com/landing/offer-1]
-- **When to Link**: [Specific contexts for this offer]
-- **Anchor Text Examples**: "[offer description]", "[call to action]", "[benefit phrase]"
+### نكهات بومب فيب
+- **URL**: https://zerovape.store/ar/blog/نكهات-بومب-فيب-مراجعة-و-تجربتي-الشخصية/a-1912936178
 
----
+### نكهات مزاج
+- **URL**: https://zerovape.store/ar/blog/نكهات-مزاج-تجربتي-الشخصية-و-مراجعة-شاملة/a-1396159390
 
-## Internal Linking Best Practices
+## Internal Linking Rules
 
-When adding internal links to blog content:
-
-1. **Link Naturally**: Only link when genuinely relevant and helpful to the reader
-2. **Vary Anchor Text**: Use different phrases for the same destination URL
-3. **3-5 Links Per Post**: Aim for 3-5 strategic internal links in each blog post
-4. **Deep Linking**: Link to specific relevant pages, not just the homepage
-5. **Early Links Matter**: Links in the first few paragraphs carry more weight
-6. **Update This Map**: Add new pages as you create them, remove outdated URLs
-
----
-
-## Quick Reference by Topic
-
-<!-- INSTRUCTIONS: Create a quick topic-to-URL mapping for common themes you write about.
-     This helps Claude quickly find relevant links while writing. -->
-
-**When writing about [Topic 1]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
-
-**When writing about [Topic 2]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
-
-**When writing about [Topic 3]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
-
----
-
-*Note: Keep this document updated as you publish new content or restructure your site. Accurate internal linking improves SEO and user experience.*
+1. 3-6 روابط داخلية لكل مقال.
+2. رابط واحد على الأقل لتصنيف رئيسي + رابط واحد صفحة سياسة/FAQ عند نية الشراء.
+3. تجنب تكرار نفس Anchor Text حرفيًا في كل مقال.
+4. عند محتوى مقارنة: اربط إلى `brands` + `most-Sales-products`.
+5. عند المحتوى التعليمي: اربط إلى `FAQ` و"كيفية الطلب".
+6. روابط المنتجات داخل المقالات البيعية تكون من قائمة `Approved Top-Selling Product Links` أولًا.
+7. لا تعتمد على روابط منتجات مأخوذة من السايت ماب فقط بدون تأكيد أنها من الأكثر مبيعًا/متوفرة.

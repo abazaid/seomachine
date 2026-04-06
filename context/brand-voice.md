@@ -1,291 +1,183 @@
-# [YOUR COMPANY] Brand Voice & Messaging
+﻿# Zero Vape Brand Voice & Messaging
 
-<!-- INSTRUCTIONS: This template defines your brand voice, tone, and messaging framework.
-     Fill in all [BRACKETED] sections with your company's specific information.
-     Delete these instruction comments when done.
-     See examples/castos/ for a complete real-world example. -->
-
-This document defines the [YOUR COMPANY] brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
+هذا الدليل يحدد هوية كتابة محتوى **Zero Vape** لكل المقالات والصفحات التسويقية.
 
 ## Brand Voice Pillars
 
-<!-- INSTRUCTIONS: Define 3-5 voice pillars that capture your brand's personality.
-     Each pillar should include:
-     - What it means (the concept)
-     - How it sounds (the execution)
-     - Example (a sentence in your voice)
-     - Avoid (what NOT to do)
--->
+### 1. قريب من العميل السعودي
+- **What it means**: نتكلم بلغة مفهومة وبسيطة، بدون تعقيد تقني زائد.
+- **How it sounds**: نبرة ودية، مباشرة، وتجاوب أسئلة العميل قبل ما يسأل.
+- **Example**: "إذا محتار بين سحبة جاهزة أو بود، خلّنا نبسّطها لك خلال دقيقة."
+- **Avoid**: الرسميّة المبالغ فيها أو لغة روبوتية بحتة.
 
-### 1. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept of this voice characteristic]
-- **How it sounds**: [Describe how this comes across in writing - tone, style, approach]
-- **Example**: "[Write an example sentence that demonstrates this voice pillar]"
-- **Avoid**: [List what to avoid - opposite tones, styles, or approaches]
+### 2. خبير عملي
+- **What it means**: نوضح الفروقات التقنية بطريقة تساعد العميل يختار صح.
+- **How it sounds**: شروحات قصيرة، مقارنة واضحة، وخطوات تطبيقية.
+- **Example**: "إذا تفضّل سحبة ناعمة ونكهة ثابتة، ابدأ بجهاز بود مع سولت مناسب."
+- **Avoid**: الكلام العام بدون قيمة أو توصية عملية.
 
-### 2. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+### 3. صريح في البيع
+- **What it means**: نعرض الفائدة والسعر والقيمة بوضوح.
+- **How it sounds**: CTA واضح، بدون مبالغة أو وعود غير دقيقة.
+- **Example**: "اختَر النكهة المناسبة لك، وأكمل الطلب الآن بخيارات دفع متعددة."
+- **Avoid**: الضغط المبالغ فيه أو عبارات دعائية فارغة.
 
-### 3. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
-
-### 4. [VOICE PILLAR NAME] (Optional)
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
-
-### 5. [VOICE PILLAR NAME] (Optional)
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+### 4. مبني على الثقة
+- **What it means**: نؤكد الأصالة، السياسات، وخدمة ما بعد البيع.
+- **How it sounds**: تطمينات قصيرة وواضحة بجانب القرار الشرائي.
+- **Example**: "اطلب وأنت مطمئن: شحن سريع داخل السعودية وسياسات واضحة."
+- **Avoid**: إخفاء المعلومات المهمة أو الغموض.
 
 ## Tone Guidelines
 
-### General Tone: [DESCRIBE YOUR GENERAL TONE]
-[Write a paragraph describing your overall tone. Example: "Imagine you're an experienced [expert in your field] helping a friend succeed. You know what you're talking about, you genuinely want them to succeed, and you explain things clearly without being patronizing."]
+### General Tone
+لهجة عربية مناسبة للسعودية، بسيطة ومباشرة، تجمع بين الخبرة وسهولة الفهم. نستخدم أسلوب "ننصحك" بدل "نُملي عليك".
 
 ### Tone Variations by Content Type
 
-<!-- INSTRUCTIONS: Define how your tone shifts for different content types.
-     Include example phrases for each type. -->
+**How-To Guides**: تعليمي، بسيط، خطوة بخطوة
+- "خلّنا نبدأ من الأساس"
+- "الفرق العملي بينهم كالتالي"
+- "هذه أفضل نقطة بداية لك"
 
-**How-To Guides**: [Adjectives describing tone for tutorials]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Strategy/Advice Content**: تحليلي، واضح، قرار-محور
+- "الاختيار يعتمد على استخدامك اليومي"
+- "لو هدفك توفير أعلى، هذا الخيار أنسب"
+- "ركّز على التوافق قبل السعر"
 
-**Strategy/Advice Content**: [Adjectives describing tone for strategic content]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Industry News/Trends**: سريع، مختصر، مفيد
+- "وش الجديد في السوق السعودي"
+- "هذا التغيير يهمك لأن..."
+- "كيف تستفيد من التريند بدون مخاطرة"
 
-**Industry News/Trends**: [Adjectives describing tone for news/trends]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
-
-**Product/Feature Content**: [Adjectives describing tone for product content]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Product/Feature Content**: فائدة أولًا، بيع ذكي
+- "ليش هذا المنتج مناسب لك"
+- "وش الفرق الحقيقي عن البدائل"
+- "اطلب الآن إذا هذا استخدامك"
 
 ## Messaging Framework
 
 ### Core Brand Messages
 
-<!-- INSTRUCTIONS: Define 3-5 core messages that should be woven throughout your content.
-     Each message should include the concept, key points, and when to use it. -->
-
-#### Message 1: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 1: الاختيار الصح يبدأ من احتياجك
+- **Concept**: نساعد العميل يختار الجهاز/النكهة حسب الاستخدام الفعلي.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - فرق واضح بين السحبات الجاهزة، البودات، والأجهزة.
+  - توصيات حسب النيكوتين والنكهة.
+  - تبسيط القرار بدون تعقيد.
+- **Usage**: مقالات المقارنات، صفحات التصنيفات، وأدلة المبتدئين.
 
-#### Message 2: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 2: تجربة موثوقة داخل السعودية
+- **Concept**: الثقة عنصر أساسي في الشراء المتكرر.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - وضوح بسياسات الشحن والاستبدال.
+  - توفر خيارات دفع مناسبة للسوق.
+  - محتوى يجاوب الأسئلة الشائعة بوضوح.
+- **Usage**: صفحات الهبوط، صفحات الأسئلة الشائعة، صفحات الدفع.
 
-#### Message 3: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 3: قيمة أعلى مقابل السعر
+- **Concept**: التركيز على القيمة العملية لا السعر فقط.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
-
-#### Message 4: [MESSAGE TITLE] (Optional)
-- **Concept**: [One sentence describing the core message]
-- **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - عروض وبكجات التوفير.
+  - تصنيفات حسب الميزانية.
+  - ترشيحات الأكثر مبيعًا.
+- **Usage**: صفحات العروض، مقالات "أفضل خيار"، نيات الشراء العالية.
 
 ### Value Propositions
 
-<!-- INSTRUCTIONS: Write specific value propositions for each of your key customer segments.
-     These should be 1-2 sentence statements that capture the core benefit for each audience. -->
+**For المبتدئ**:
+"نختصر لك البداية: جهاز مناسب + نكهة مناسبة + خطوات واضحة بدون تعقيد."
 
-**For [TARGET SEGMENT 1]**:
-"[Value proposition for this segment]"
+**For المستخدم المتوسط**:
+"خيارات أوسع بالنكهات والنيكوتين مع توصيات عملية لتجربة ثابتة يوميًا."
 
-**For [TARGET SEGMENT 2]**:
-"[Value proposition for this segment]"
+**For الباحث عن التوفير**:
+"بكجات وعروض مصممة لتقليل التكلفة مع الحفاظ على جودة التجربة."
 
-**For [TARGET SEGMENT 3]**:
-"[Value proposition for this segment]"
-
-**For [TARGET SEGMENT 4]** (Optional):
-"[Value proposition for this segment]"
-
-**For [TARGET SEGMENT 5]** (Optional):
-"[Value proposition for this segment]"
+**For الباحث عن الأصالة**:
+"منتجات موثوقة ومحتوى يوضح الفروقات وكيف تتأكد من المنتج المناسب."
 
 ## Writing Style Guidelines
 
 ### Sentence Structure
-- **Vary length**: [Your preference - e.g., "Mix short punchy sentences with longer explanatory ones"]
-- **Active voice preferred**: [Example] not [Counter-example]
-- **Average length**: [X-Y words per sentence]
-- **Clarity first**: [Your rule about clarity and readability]
+- **Vary length**: مزيج بين جمل قصيرة للوضوح وأطول للشرح.
+- **Active voice preferred**: "اختَر النكهة المناسبة" وليس "يتم اختيار النكهة".
+- **Average length**: 10-18 كلمة للجملة.
+- **Clarity first**: أي فقرة لازم تعطي فائدة مباشرة.
 
 ### Paragraph Structure
-- **Length**: [X-Y sentences typically]
-- **One idea per paragraph**: [Your approach to paragraph focus]
-- **Transitions**: [How you handle paragraph transitions]
-- **White space**: [Your approach to visual readability]
+- **Length**: 2-4 جمل.
+- **One idea per paragraph**: نعم.
+- **Transitions**: باستخدام "بالتالي"، "أما إذا"، "الخلاصة".
+- **White space**: قوائم وعناوين فرعية لتسهيل القراءة السريعة.
 
 ### Word Choice
-- **[CHARACTERISTIC 1]**: [Describe your word choice style - e.g., "Conversational: Write how you'd speak to a colleague"]
-- **[CHARACTERISTIC 2]**: [e.g., "Specific: '40% improvement' not 'Better performance'"]
-- **[CHARACTERISTIC 3]**: [e.g., "Active verbs: 'Launch', 'Create', 'Grow', 'Build'"]
-- **[WHAT TO AVOID]**: [e.g., "Avoid fluff: Cut 'very', 'really', 'actually' unless needed"]
+- **Conversational**: عربي واضح قريب من طريقة كلام العميل.
+- **Specific**: أرقام وخصائص واضحة بدل تعميمات.
+- **Action-first**: اختَر، قارن، اطلب، جرّب.
+- **Avoid fluff**: تجنب "الأفضل على الإطلاق" بدون دليل.
 
 ### Terminology
 
-<!-- INSTRUCTIONS: Define industry-specific terminology preferences.
-     List preferred terms vs. terms to avoid. -->
-
-**Say This** → **Not That**
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
+**Say This** -> **Not That**
+- سحبة جاهزة -> دسبوزبل فقط (استخدم المصطلحين معًا أول مرة)
+- بودات -> خراطيش بدون توضيح
+- كويلات -> مقاومات (إلا عند شرح تقني)
+- نكهات سولت -> سوائل ملحية
+- شيشة إلكترونية -> فيب فقط (نذكر المرادفات عند الحاجة)
 
 ## Content Formatting
 
 ### Headlines
-- **[RULE 1]**: [e.g., "Be specific: 'How to Grow Your Audience in 2025' not 'Growth Tips'"]
-- **[RULE 2]**: [e.g., "Include benefit: Tell reader what they'll gain"]
-- **[RULE 3]**: [e.g., "Use numbers: '7 Ways...' or 'Complete Guide...'"]
-- **[RULE 4]**: [e.g., "Keep concise: 60 characters or less for SEO"]
+- تحتوي الكلمة المفتاحية الأساسية مبكرًا.
+- توضح الفائدة مباشرة.
+- تميل إلى صيغة "أفضل/كيف/دليل" بحسب النية.
+- قصيرة وقابلة للنقر.
 
 ### Subheadings
-- **[RULE 1]**: [Your subheading guidelines]
-- **[RULE 2]**: [Your subheading guidelines]
-- **[RULE 3]**: [Your subheading guidelines]
-- **[RULE 4]**: [Your subheading guidelines]
+- وصفية وواضحة.
+- مرتبة منطقيًا من الأساس إلى القرار.
+- تتضمن مرادفات طبيعية للكلمة المفتاحية.
 
 ### Lists
-- **[RULE 1]**: [Your list formatting guidelines]
-- **[RULE 2]**: [Your list formatting guidelines]
-- **[RULE 3]**: [Your list formatting guidelines]
-- **[RULE 4]**: [Your list formatting guidelines]
+- استخدام القوائم للمقارنات والخطوات.
+- جمل قصيرة.
+- نفس البناء اللغوي داخل كل قائمة.
 
 ### Calls-to-Action
-- **[RULE 1]**: [Your CTA guidelines]
-- **[RULE 2]**: [Your CTA guidelines]
-- **[RULE 3]**: [Your CTA guidelines]
-- **[RULE 4]**: [Your CTA guidelines]
-
-## Voice Examples
-
-<!-- INSTRUCTIONS: Provide examples of your voice in action, showing both good and bad examples. -->
-
-### Excellent [YOUR COMPANY] Voice ✅
-
-"[Write a full paragraph example that demonstrates your brand voice at its best.
-
-This should include multiple sentences that show your tone, style, word choice, and approach.
-
-Reference your actual product/service and target audience.]"
-
-**Why this works**:
-- [Reason 1 - what makes this good]
-- [Reason 2]
-- [Reason 3]
-- [Reason 4]
-- [Reason 5]
-
-### Not [YOUR COMPANY] Voice ❌
-
-"[Write a full paragraph example that demonstrates what NOT to do.
-
-This should show common mistakes: wrong tone, corporate speak, feature-focused instead of benefit-focused, etc.
-
-This example shows what to avoid.]"
-
-**Why this fails**:
-- [Reason 1 - what makes this bad]
-- [Reason 2]
-- [Reason 3]
-- [Reason 4]
-- [Reason 5]
+- CTA أساسي: "أضف للسلة" أو "اطلب الآن".
+- CTA ثانوي: "تصفّح الأكثر مبيعًا" أو "شاهد كل النكهات".
+- إضافة تطمين قصير قرب CTA (شحن/سياسة واضحة/دفع مرن).
 
 ## Audience Understanding
 
 ### Who We Write For
 
-<!-- INSTRUCTIONS: Define your target audience(s) in detail. -->
-
-**Primary Audience**: [PRIMARY AUDIENCE NAME/DESCRIPTION]
-- [Characteristic 1]
-- [Characteristic 2]
-- [Characteristic 3]
-- [Characteristic 4]
-- [Characteristic 5]
+**Primary Audience**: عملاء السعودية الباحثين عن منتجات فيب وشيشة إلكترونية موثوقة
+- يريدون خيارات واضحة وسريعة
+- يهمهم السعر والقيمة
+- يهتمون بالنكهة والثبات
+- يتأثرون بالمراجعات والأكثر مبيعًا
+- يحتاجون شرحًا بسيطًا قبل الشراء
 
 **Secondary Audiences**:
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
+- المبتدئون: أول تجربة شراء
+- مستخدمو البود: يبحثون عن بودات/كويلات متوافقة
+- الباحثون عن عروض: حسّاسون للسعر
+- عملاء IQOS/HEETS وNicotine Pouches
 
 ### What They Care About
 
 **Top Priorities**:
-1. [Priority 1]
-2. [Priority 2]
-3. [Priority 3]
-4. [Priority 4]
-5. [Priority 5]
+1. جودة النكهة والثبات
+2. أصالة المنتج
+3. سرعة الشحن داخل السعودية
+4. سعر مناسب وعروض
+5. سهولة اختيار المنتج الصحيح
 
 **Pain Points**:
-1. [Pain point 1]
-2. [Pain point 2]
-3. [Pain point 3]
-4. [Pain point 4]
-5. [Pain point 5]
-
-### How to Serve Them
-
-- **[PRINCIPLE 1]**: [How you serve your audience - e.g., "Respect their time: Get to the point quickly"]
-- **[PRINCIPLE 2]**: [e.g., "Make it actionable: Give specific, implementable advice"]
-- **[PRINCIPLE 3]**: [e.g., "Explain the 'why': Help them understand strategy, not just tactics"]
-- **[PRINCIPLE 4]**: [e.g., "Acknowledge challenges: Show we understand their work"]
-- **[PRINCIPLE 5]**: [e.g., "Celebrate progress: Encourage incremental improvement"]
-
-## Quality Checklist
-
-Before publishing any content, verify:
-
-- [ ] **Voice**: Sounds like [YOUR COMPANY] ([your key voice characteristics])
-- [ ] **Tone**: Appropriate for content type and audience stage
-- [ ] **Value**: Provides genuine, actionable insights for [YOUR AUDIENCE]
-- [ ] **Clarity**: Complex concepts explained simply
-- [ ] **Accuracy**: Technical information is correct
-- [ ] **Examples**: Includes relevant [industry/use case] scenarios
-- [ ] **Action**: Clear next steps or takeaways
-- [ ] **Messaging**: Aligns with core brand messages
-- [ ] **Terminology**: Uses correct [industry] terms
-- [ ] **Empowerment**: Helps [audience] feel capable and confident
-
----
-
-**Remember**: [Write a memorable closing statement that captures the essence of your brand voice and mission. Example: "Every piece of content should make our audience feel more capable and confident. We're not just providing information—we're empowering success."]
+1. الحيرة بين أنواع الأجهزة
+2. اختيار نسبة نيكوتين غير مناسبة
+3. الخوف من منتج غير أصلي
+4. تضارب المعلومات التقنية
+5. صعوبة مقارنة البدائل بسرعة

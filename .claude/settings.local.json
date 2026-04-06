@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(./.venv/Scripts/python:*)",
+      "Bash(chcp 65001)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "Bash(./research_performance_matrix.py)",
+      "Bash(PYTHONIOENCODING=utf-8 ./research_performance_matrix.py:*)",
+      "WebFetch(domain:zerovape.store)",
+      "WebFetch(domain:justsmook.com)",
+      "WebFetch(domain:vape-mazag.com)",
+      "Bash(curl -s \"https://zerovape.store/ar/blog/%D8%A7%D9%81%D8%B6%D9%84-%D8%A8%D8%AF%D9%8A%D9%84-%D9%84%D8%AF%D8%B2%D8%B1%D8%AA-%D9%86%D9%8A%D9%83%D9%88%D8%AA%D9%8A%D9%86-%D8%A7%D8%B8%D8%B1%D9%81-%D9%86%D9%8A%D9%83%D9%88%D8%AA%D9%8A%D9%86-dzrt-nicotine-alternative/a-636237884\" --max-time 30)",
+      "Bash(python3 -c ':*)",
+      "Bash(curl -s \"https://zerovape.store/ar/blog/%D8%A7%D9%81%D8%B6%D9%84-%D8%A8%D8%AF%D9%8A%D9%84-%D9%84%D8%AF%D8%B2%D8%B1%D8%AA-%D9%86%D9%8A%D9%83%D9%88%D8%AA%D9%8A%D9%86-%D8%A7%D8%B8%D8%B1%D9%81-%D9%86%D9%8A%D9%83%D9%88%D8%AA%D9%8A%D9%86-dzrt-nicotine-alternative/a-636237884\" --max-time 30 -o \"C:/xampp/htdocs/seomachine/rewrites/article_raw.html\")",
+      "Bash(echo \"Exit: $?\")",
+      "Bash(python3:*)"
+    ]
+  }
+}

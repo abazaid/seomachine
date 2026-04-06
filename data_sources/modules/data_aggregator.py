@@ -5,6 +5,7 @@ Combines data from multiple sources (GA4, GSC, DataForSEO) for comprehensive ana
 """
 
 import os
+import sys
 from typing import Dict, List, Optional, Any
 from datetime import datetime
 from dotenv import load_dotenv
@@ -14,7 +15,10 @@ try:
     from .google_search_console import GoogleSearchConsole
     from .dataforseo import DataForSEO
 except ImportError:
-    # Fallback for direct execution
+    # Fallback for direct execution (e.g., python data_sources/modules/data_aggregator.py)
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    if current_dir not in sys.path:
+        sys.path.insert(0, current_dir)
     from google_analytics import GoogleAnalytics
     from google_search_console import GoogleSearchConsole
     from dataforseo import DataForSEO
@@ -27,6 +31,8 @@ class DataAggregator:
 
     def __init__(self):
         """Initialize all data source clients"""
+        # Support both repo-root .env and data_sources/config/.env
+        load_dotenv('.env')
         load_dotenv('data_sources/config/.env')
 
         try:

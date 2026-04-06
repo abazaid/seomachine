@@ -1,375 +1,205 @@
-# Target Keywords & Topic Clusters
+﻿# Target Keywords & Topic Clusters - Zero Vape (Saudi Arabia)
 
-This document organizes Castos's target keywords by topic cluster for strategic content planning and SEO optimization.
+تحديث مبني على بيانات SEMrush المرسلة (لقطات بتاريخ 5 أبريل 2026) + بنية المتجر الحالية.
 
-## Instructions
-Fill in this template with your target keywords organized by topic cluster. Update regularly based on keyword research and content performance.
-
----
-
-## Topic Cluster Structure
-
-Each topic cluster should have:
-- **Pillar Keyword**: Main, high-volume keyword (typically competitive)
-- **Cluster Keywords**: 5-10 related keywords (subtopics)
-- **Long-Tail Keywords**: 10-15 specific, lower-volume phrases
-- **Search Intent**: What users want (informational, commercial, transactional)
-
----
-
-## Cluster 1: Podcast Hosting
+## Cluster 1: شيشة إلكترونية / فيب
 
 ### Pillar Keyword
-- **Keyword**: podcast hosting
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
+- **Keyword**: شيشة إلكترونية
+- **Search Volume (SA)**: ~18.1K
+- **Intent**: Informational + Commercial
+- **Priority**: High
+- **Primary URL**: https://zerovape.store/ar/أجهزة-شيشة-الكترونية/c953546811
+
+### Cluster Keywords
+- فيب
+- جهاز فيب
+- شيشة فيب
+- أفضل شيشة إلكترونية
+- أجهزة فيب أقل من 100 ريال
+
+### Long-Tail Keywords
+- افضل جهاز شيشة الكترونية للمبتدئين
+- الفرق بين الفيب والشيشة الالكترونية
+- أفضل جهاز فيب بسعر مناسب في السعودية
+- جهاز فيب بطارية قوية
+- جهاز شيشة الكترونية استخدام يومي
+
+## Cluster 2: سحبات جاهزة / Disposable
+
+### Pillar Keyword
+- **Keyword**: سحبة
+- **Search Volume (SA)**: ~60.5K (مصطلحات قريبة)
 - **Intent**: Commercial
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL of main guide]
-
-### Cluster Keywords (Subtopics)
-1. **best podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL if exists, or "Not yet created"]
-
-2. **podcast hosting platform**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-3. **podcast hosting comparison**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-4. **free podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-5. **podcast hosting pricing**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-[Add 5-10 cluster keywords total]
-
-### Long-Tail Keywords
-- how to choose a podcast host
-- podcast hosting for beginners
-- podcast hosting with unlimited bandwidth
-- podcast hosting that includes a website
-- difference between podcast hosting and website hosting
-- what to look for in a podcast host
-- podcast hosting for multiple shows
-- [Add 10-15 long-tail variations]
-
-### Related Questions (People Also Ask)
-- What is podcast hosting?
-- Do I need podcast hosting?
-- How much does podcast hosting cost?
-- Can I host my podcast for free?
-- [Add questions from PAA boxes]
-
----
-
-## Cluster 2: Podcast Analytics
-
-### Pillar Keyword
-- **Keyword**: podcast analytics
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL or "To create"]
-
-### Cluster Keywords (Subtopics)
-1. **podcast metrics**
-2. **podcast download statistics**
-3. **podcast listener data**
-4. **podcast performance tracking**
-5. **podcast growth metrics**
-[Continue with 5-10 cluster keywords]
-
-### Long-Tail Keywords
-- how to track podcast analytics
-- understanding podcast download numbers
-- most important podcast metrics
-- how to measure podcast success
-- podcast analytics tools
-[Add 10-15 long-tail variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 3: Podcast Growth
-
-### Pillar Keyword
-- **Keyword**: grow podcast audience
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Priority**: Very High
+- **Primary URL**: https://zerovape.store/ar/سحبات-جاهزة-لمرة-واحدة/c906350745
 
 ### Cluster Keywords
-1. **podcast growth strategies**
-2. **increase podcast downloads**
-3. **podcast marketing**
-4. **podcast promotion**
-5. **podcast audience development**
-[Continue with cluster keywords]
+- سحبات جاهزة
+- سحبة لمرة واحدة
+- شيشة جاهزة لمرة واحدة
+- سحبة سيجارة vape pen
+- افضل سحبة الكترونية
 
 ### Long-Tail Keywords
-- how to get more podcast listeners
-- promote your podcast free
-- grow podcast audience fast
-- podcast growth tips for beginners
-[Add long-tail variations]
+- أفضل سحبة جاهزة في السعودية
+- سحبة الكترونية سعرها مناسب
+- سحبة نكهة قوية وثابتة
+- سحبة تدوم فترة أطول
+- دسبوزبل فيب اصلي
 
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 4: Podcast Monetization
+## Cluster 3: نكهات سولت
 
 ### Pillar Keyword
-- **Keyword**: podcast monetization
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial/Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Keyword**: نكهات سولت
+- **Intent**: Commercial
+- **Priority**: Very High
+- **Primary URL**: https://zerovape.store/ar/نكهات-سحبة-سولت-e-juice/c1600093552
 
 ### Cluster Keywords
-1. **how to monetize a podcast**
-2. **podcast advertising**
-3. **podcast sponsorships**
-4. **make money podcasting**
-5. **podcast revenue streams**
-[Continue]
+- سولت نيكوتين
+- أفضل نكهات سولت
+- نكهات سولت باردة
+- نكهات سولت توباكو
+- نكهات سولت فواكه
 
 ### Long-Tail Keywords
-[Add 10-15 variations]
+- افضل نكهة سولت للمدخنين السابقين
+- نكهات سولت للبودات الصغيرة
+- نكهات سولت اصلية في السعودية
+- نكهات سولت بدون حرق حلق
+- نكهات سولت عالية النيكوتين
 
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 5: Starting a Podcast
+## Cluster 4: بودات وكويلات
 
 ### Pillar Keyword
-- **Keyword**: how to start a podcast
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Keyword**: بودات
+- **Intent**: Commercial + Navigational
+- **Priority**: High
+- **Primary URL**: https://zerovape.store/ar/بودات-pods/c124347481
 
 ### Cluster Keywords
-1. **podcast equipment**
-2. **podcast recording software**
-3. **podcast editing**
-4. **podcast launch checklist**
-5. **podcast setup**
-[Continue]
+- كويلات
+- تغيير الكويل
+- توافق البود والكويل
+- بودات جاهزة
+- بودات مزاج
 
 ### Long-Tail Keywords
-[Add variations]
+- أفضل بودات للنكهات السولت
+- متى اغير الكويل في جهاز الفيب
+- كيف اعرف الكويل المناسب لجهازي
+- بودات اصلية في السعودية
+- كويلات تدوم أطول
 
-### Related Questions
-[Add PAA questions]
+## Cluster 5: نكهات فيب شيشة (Freebase)
 
----
+### Pillar Keyword
+- **Keyword**: نكهات فيب
+- **Intent**: Commercial
+- **Priority**: High
+- **Primary URL**: https://zerovape.store/ar/نكهات-فيب-شيشة/c1737225055
 
-## Cluster 6: [Additional Cluster]
+### Cluster Keywords
+- نكهات فيب شيشة
+- نكهات فيب 100 مل
+- نكهات فيب 120 مل
+- نكهات بدون نيكوتين
+- أفضل نكهات الفيب
 
-[Follow same format for:]
-- Podcast SEO
-- Podcast Distribution
-- Podcast Equipment
-- Podcast Editing
-- Podcast Formats
-- Private Podcasting
-- Podcast for Business
-- etc.
+## Cluster 6: IQOS / HEETS / TEREA
 
----
+### Pillar Keyword
+- **Keyword**: هيتس
+- **Intent**: Commercial
+- **Priority**: Medium-High
+- **Primary URLs**:
+  - https://zerovape.store/ar/هيتس-هيتس-دخان-ايكوس-السعودية-Heets/c702815704
+  - https://zerovape.store/ar/terea-iqos-iluma/c660698534
 
-## Seasonal/Trending Keywords
+## High Commercial Intent Keywords (Purchase Keywords)
 
-### Q1 Keywords (Jan-Mar)
-- New year podcast goals
-- Podcast trends 2025
-- [Add seasonal opportunities]
+1. شراء شيشة الكترونية
+2. شراء فيب اونلاين السعودية
+3. سعر سحبة جاهزة
+4. افضل سحبة جاهزة
+5. سحبات جاهزة اصلية
+6. سحبة سيجارة vape pen
+7. جهاز فيب سعره مناسب
+8. جهاز شيشة الكترونية للبيع
+9. نكهات سولت اصلية
+10. افضل نكهات سولت
+11. نكهات فيب بدون نيكوتين
+12. نكهات فيب 120 مل
+13. بودات اصلية
+14. كويلات اصلية
+15. بودات مزاج
+16. عروض فيب السعودية
+17. بكجات فيب توفير
+18. فيب أقل من 100 ريال
+19. اظرف نيكوتين السعودية
+20. هيتس السعودية
 
-### Q2 Keywords (Apr-Jun)
-[Add seasonal keywords]
+## Product-Led Keywords (Top Sellers Focus)
 
-### Q3 Keywords (Jul-Sep)
-[Add seasonal keywords]
+- نكهة توباكو فانيلا VCT
+- Ripe Vapes VCT Vanilla Custard Tobacco
+- لوش ايس فيقود
+- VGOD Lush Ice
+- بودات زيرو
+- Zero pods
+- دراي توباكو فيقود
+- VGOD Dry Tobacco Salt
+- كوبانو فيقود سولت
+- VGOD Cubano Salt
+- بودات مزاج بوكس 3000
+- كويلات RPM40 سموك
+- Smok RPM coil
+- Bomb Apple VGOD Iced
+- Bomb Mango VGOD Iced
+- جهاز سموك RPM40
+- بودات كاليبورن
+- Uwell Caliburn pods
+- بودات XLIM Pro
+- OXVA Xlim Pro pods
+- بودات يو ويل كوكو
+- Uwell Koko pod
+- بودات Airo
+- Veiik Airo pods
+- Nasty ASAP Grape salt
 
-### Q4 Keywords (Oct-Dec)
-[Add seasonal keywords]
+## Competitor-Derived Priority Keywords
 
----
+- شيشة
+- فيب
+- سحبة
+- شيشة إلكترونية
+- شيشة جاهزة
+- دسبوزبل فيب
+- أفضل نكهات سولت
+- أفضل جهاز فيب
 
-## Competitor Keyword Gaps
+## Seasonal/Promotional Keywords
 
-Track keywords where competitors rank but Castos doesn't:
+- عروض الفيب رمضان
+- عروض العيد فيب
+- تخفيضات اليوم الوطني فيب
+- عروض الجمعة البيضاء فيب
+- باقات فيب شتوية/صيفية
 
-### Competitor: [Name]
-- **Keyword**: [keyword they rank for]
-  - Their Position: [rank]
-  - Castos Position: [rank or "Not ranking"]
-  - Opportunity: [High/Medium/Low]
-  - Action: [Create content, optimize existing, etc.]
+## Publishing Priority (90 days)
 
-[Add more competitors and gaps]
+### High Priority
+- سحبات جاهزة
+- نكهات سولت
+- شيشة إلكترونية
+- بودات وكويلات
+- عروض فيب
 
----
+### Medium Priority
+- IQOS/HEETS
+- Nicotine Pouches
+- نكهات بدون نيكوتين
 
-## Keyword Opportunity Pipeline
-
-### High Priority (Create Soon)
-Keywords with high volume, achievable difficulty, strong business value:
-
-1. **Keyword**: [keyword]
-   - Volume: [searches]
-   - Difficulty: [score]
-   - Intent: [type]
-   - Why Priority: [strategic reason]
-   - Action: [Create pillar content / cluster article / etc.]
-
-[List 5-10 high-priority keywords]
-
-### Medium Priority (Next Quarter)
-[List keywords to target in next 3 months]
-
-### Low Priority (Future Consideration)
-[List keywords for future content planning]
-
----
-
-## Keyword Tracking & Performance
-
-### Top Performing Keywords
-Keywords where Castos ranks in positions 1-10:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Trend: [↑ Rising / → Stable / ↓ Declining]
-
-[List current winners]
-
-### Keywords to Improve
-Keywords ranking 11-20 (page 2) with opportunity:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Action Needed: [Update content, build links, etc.]
-
-[List improvement opportunities]
-
----
-
-## Keyword Cannibalization Check
-
-Track multiple pages targeting same/similar keywords:
-
-### Potential Cannibalization Issues
-
-**Keyword**: [keyword]
-- Page 1: [URL] - Position [rank]
-- Page 2: [URL] - Position [rank]
-- **Issue**: Both pages competing for same keyword
-- **Solution**: [Consolidate, differentiate, redirect, etc.]
-
-[Monitor and document conflicts]
-
----
-
-## LSI & Semantic Keywords
-
-Common related terms to include across podcasting content:
-
-### Podcast Industry Terms
-- RSS feed
-- podcast directory
-- podcast app
-- podcast player
-- episode
-- show notes
-- audio content
-- podcast network
-[Add more]
-
-### Podcast Creation Terms
-- recording
-- editing
-- post-production
-- audio quality
-- microphone
-- podcast equipment
-[Add more]
-
-### Podcast Growth Terms
-- downloads
-- listeners
-- audience
-- subscribers
-- engagement
-- retention
-[Add more]
-
----
-
-## Usage Guidelines
-
-### When Writing New Content
-1. Check which cluster the topic belongs to
-2. Target the appropriate cluster or long-tail keyword
-3. Reference pillar content in that cluster
-4. Include LSI keywords naturally
-5. Link to related cluster articles
-
-### When Optimizing Existing Content
-1. Verify content targets the right keyword
-2. Check for cannibalization with other pages
-3. Ensure keyword appears in critical locations
-4. Update if search intent has shifted
-5. Add internal links to/from related cluster content
-
-### When Planning Content Calendar
-1. Review keyword opportunity pipeline
-2. Prioritize high-value, achievable keywords
-3. Build out topic clusters systematically
-4. Balance pillar content with cluster articles
-5. Track keyword performance over time
-
----
-
-## Maintenance
-
-**Last Updated**: [Date]
-**Next Review**: [Date - quarterly recommended]
-
-**Regular Updates**:
-- Add new keyword opportunities monthly
-- Track ranking changes monthly
-- Update volumes/difficulty quarterly
-- Review competitor gaps quarterly
-- Refine clusters based on performance
-
----
-
-**Note**: This is a living document. As you conduct keyword research, track performance, and identify new opportunities, update this file to keep your SEO strategy aligned with your content creation.
+### Low Priority
+- فئات ثانوية (اكسسوارات عامة)

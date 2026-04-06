@@ -65,6 +65,16 @@ The opening hook is the most important element. A strong hook can boost reader r
 - **Lists**: Use bulleted or numbered lists for scannability
 - **Formatting**: Bold key concepts, use short paragraphs (2-4 sentences MAX)
 
+**Platform Constraint (No Tables):**
+- If the target CMS/platform does not support tables, do **not** use markdown/HTML tables in the article body.
+- Use comparison bullet blocks instead:
+  - **Option/Product**
+  - **Best for**
+  - **Price range**
+  - **Pros**
+  - **Cons**
+  - **Recommended when**
+
 **REQUIRED: Mini-Stories (2-3 per article)**
 
 Research shows we're 22x more likely to remember facts wrapped in stories. Every article MUST include 2-3 mini-scenarios with:

@@ -64,6 +64,17 @@ Based on analysis, classify the rewrite level:
 ### Content Structure
 Follow same structure as `/write` command:
 
+### Platform Formatting Constraint (Important)
+- If the publishing platform does not support tables, **do not output markdown/HTML tables**.
+- Replace any comparison table with a **Comparison Bullet Block** using this pattern:
+  - **Option/Product Name**
+  - **Best for**: [use case]
+  - **Price range**: [range]
+  - **Pros**: [bullet points]
+  - **Cons**: [bullet points]
+  - **Recommended when**: [decision cue]
+- Keep comparison sections scannable with short bullets and clear subheadings.
+
 #### 1. Updated Headline (H1)
 - Optimize with primary keyword if not already present
 - Refresh if original title is dated or weak
@@ -181,6 +192,7 @@ For major changes, note key differences:
 - Sections added or removed
 - Word count expansion
 - SEO element improvements
+- If tables are unsupported, present this section as bullet lists only.
 
 ## File Management
 After completing the rewrite, save to:

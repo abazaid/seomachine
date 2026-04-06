@@ -47,6 +47,17 @@ Use this command to review and analyze existing your company blog posts for SEO 
 - **Visual Elements**: Note if images, screenshots, or media are mentioned/needed
 - **Call-to-Action**: Is there a clear CTA aligned with user intent?
 
+### Platform Formatting Constraint
+- If the target CMS/platform does not support tables, do **not** recommend table-based fixes as mandatory.
+- Provide comparison recommendations as **bullet-list comparison blocks** instead:
+  - **Option/Product**
+  - **Best for**
+  - **Price range**
+  - **Pros**
+  - **Cons**
+  - **Recommended when**
+- Keep recommendations copy-paste friendly for plain-text editors.
+
 ## Output
 Provides a comprehensive analysis report with:
 
@@ -67,6 +78,7 @@ Top 3-5 immediate improvements that can be made quickly:
 - Optimize meta description
 - Add internal links to specific pages
 - Fix readability issues (sentence length, passive voice)
+- If suggesting comparison improvements, use bullet-list format (not tables) when platform support is limited.
 
 ### 3. Strategic Improvements
 Longer-term enhancements for maximum impact:
